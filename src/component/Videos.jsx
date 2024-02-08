@@ -13,7 +13,7 @@ const Videos = () => {
     
     ];
 
-    const [videoSrc, setVideoSrc] = useState(videosArr[1])
+    const [videoSrc, setVideoSrc] = useState(videosArr[])
     return (
         <Stack direction={['column','row']} h={'120vh'}>
             <VStack w={'full'}>
