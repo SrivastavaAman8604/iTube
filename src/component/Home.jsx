@@ -28,11 +28,8 @@ const Home = () => {
                 <Stack h="full" p="7" alignItems={'center'} direction={['column','row']}>
                     <Image src={img5} h={['40','400']} filter={'hue-rotate(-130deg)'}/>
                     <Text letterSpacing={"widest"} lineHeight={"190%"} p={['4','16']} textAlign={'center'}>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit, consequatur dolor! Repellendus nam dignissimos, dolores magnam ex laudantium dolor nisi quisquam et. Aperiam voluptatibus dolore dicta exercitationem, ad animi debitis.
-                        Praesentium eveniet et explicabo, assumenda cumque tenetur dolore consequuntur labore. Ullam a dolor ab, excepturi placeat quae quos quaerat, reiciendis unde, quidem sapiente voluptate suscipit dignissimos numquam. Praesentium, debitis molestiae.
-                        Modi delectus nesciunt quod voluptates pariatur perspiciatis architecto molestiae praesentium necessitatibus facilis maxime sit impedit, dolor amet nihil fuga earum voluptas nemo quaerat similique! Neque totam doloribus quae quod maiores.
-                        Pariatur, suscipit? Eius ducimus nostrum quam optio sint architecto sed vero, aut, aperiam nihil excepturi possimus nesciunt delectus illum similique velit assumenda deleniti quos tempora consequatur necessitatibus, quaerat reiciendis culpa!
-                        Nulla non excepturi nam blanditiis culpa ullam repudiandae, laborum quia eveniet eligendi facere, aspernatur veniam labore vero optio error possimus vitae! Aliquid, distinctio! Repudiandae deserunt nisi obcaecati amet, distinctio sunt?
+                       At iTube, we believe in the power of visual storytelling to inspire, inform, and connect people worldwide. Our platform has evolved into a vibrant community of creators, viewers, and collaborators united by a shared passion for video content.
+                        Our mission is to empower individuals and organizations to share their stories, knowledge, and creativity through the medium of video. We strive to provide a user-friendly platform that fosters creativity, encourages collaboration, and amplifies diverse voices from around the globe.
                     </Text>
                 </Stack>
             </Container>
