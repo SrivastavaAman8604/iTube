@@ -30,6 +30,8 @@ const Home = () => {
                     <Text letterSpacing={"widest"} lineHeight={"190%"} p={['4','16']} textAlign={'center'}>
                        At iTube, we believe in the power of visual storytelling to inspire, inform, and connect people worldwide. Our platform has evolved into a vibrant community of creators, viewers, and collaborators united by a shared passion for video content.
                         Our mission is to empower individuals and organizations to share their stories, knowledge, and creativity through the medium of video. We strive to provide a user-friendly platform that fosters creativity, encourages collaboration, and amplifies diverse voices from around the globe.
+                        iTube is fueled by a dedicated team of passionate individuals committed to delivering an exceptional user experience. From developers and designers to content strategists and customer support specialists, each member of our team plays a vital role in bringing our vision to life.
+                        Join the iTube community today and embark on your journey of creativity, exploration, and connection through the power of video.
                     </Text>
                 </Stack>
             </Container>
