@@ -50,9 +50,9 @@ const Header = () => {
                         <Button onClick={onClose} variant={"ghost"} colorScheme={'purple'}>
                             <Link to={'./videos'}>Videos</Link>
                         </Button>
-                        <Button onClick={onClose} variant={"ghost"} colorScheme={'purple'}>
+{/*                         <Button onClick={onClose} variant={"ghost"} colorScheme={'purple'}>
                             <Link to={'./videos?category=Free'}>Free Videos</Link>
-                        </Button>
+                        </Button> */}
                         <Button onClick={onClose} variant={"ghost"} colorScheme={'purple'}>
                             <Link to={'./upload'}>Upload Videos</Link>
                         </Button>
