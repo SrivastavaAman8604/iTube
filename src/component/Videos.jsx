@@ -36,7 +36,7 @@ const Videos = () => {
             <VStack w={['full', 'xl']} alignItems={"stretch"} p={"8"} spacing={"8"} overflow={"auto"}>
                 {
                     videosArr.map((item, index)=>(
-                        <Button variant={"ghost"} colorScheme="purple" onClick={()=>setVideoSrc("item")}> 
+                        <Button variant={"ghost"} colorScheme="purple" onClick={()=>setVideoSrc(item)}> 
                             Sample Video {index + 1}
                         </Button>
                     ))
