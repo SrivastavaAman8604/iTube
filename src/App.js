@@ -7,6 +7,9 @@ import Videos from './component/Videos.jsx';
 import Upload from './component/Upload.jsx';
 import Login from './component/Login.jsx';
 import SignUp from './component/SignUp.jsx';
+import Dashboard from './component/Dashboard.jsx';
+import VendorDashboard from './component/VendorDashboard.jsx';
+import UserDashboard from './component/UserDashboard.jsx';
 
 function App() {
   return (
@@ -19,6 +22,9 @@ function App() {
           <Route path='/upload' element={<Upload/>}/>
           <Route path='/login' element={<Login/>}/>
           <Route path='/signup' element={<SignUp/>}/>
+          <Route path='/dashboard' element={<Dashboard/>}/>
+          <Route path='/vendordashboard' element={<VendorDashboard/>}/>
+          <Route path='/userdashboard' element={<UserDashboard/>}/>
         </Routes>
         <Footer/>
       </Router>
