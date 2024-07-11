@@ -23,7 +23,7 @@ const Home = () => {
             <Mycarousel/> 
             <Container minW={'50vh'} maxW={'container.xl'} minH={'120vh'} p="16">
                 <Heading textTransform={"uppercase"} py="2" w={"fit-content"} borderBottom={"2px solid"} m="auto">
-                    Services
+                    Service
                 </Heading>
                 <Stack h="full" p="7" alignItems={'center'} direction={['column','row']}>
                     <Image src={img5} h={['40','400']} filter={'hue-rotate(-130deg)'}/>
